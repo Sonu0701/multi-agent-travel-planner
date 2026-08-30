@@ -1,0 +1,35 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+env/
+aviationstack-mcp/.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Project-specific files (ignore generated/test scripts if needed)
+main1.py
+mcp_client1.py
+tesing_weather_mcp_server1.py

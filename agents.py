@@ -333,7 +333,7 @@ and booking advice.
     result = _llm_text(
         "You are a flight planning specialist.",
         prompt,
-    )
+    ) 
 
     print("\n========== FLIGHT AGENT OUTPUT ==========")
     print(result)

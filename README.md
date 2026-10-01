@@ -1,4 +1,4 @@
-# 🌍 Multi-Agent Travel Planner
+# 🌍 TripPilot — Agentic Travel Planning System
 
 > An AI-powered travel planning system built with **LangGraph**, featuring supervisor-routed specialist agents, real-world data through **Model Context Protocol (MCP)** servers, human approval workflows, and durable PostgreSQL state.
 
